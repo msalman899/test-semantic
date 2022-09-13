@@ -1,5 +1,7 @@
 ---
-branch: main
+branches: 
+    - main
+    - master
 repositoryUrl: https://github.com/msalman899/test-semantic
 plugins:
     - "@semantic-release/commit-analyzer"
